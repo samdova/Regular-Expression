@@ -1,0 +1,5 @@
+function validateCreditCard(cardNumber) {
+
+
+
+}
